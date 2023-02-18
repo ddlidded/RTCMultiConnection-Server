@@ -1,6 +1,6 @@
 FROM node
 
-RUN git clone https://github.com/muaz-khan/RTCMultiConnection-Server \
+RUN git clone https://github.com/ddlidded/RTCMultiConnection-Server \
     && cd RTCMultiConnection-Server \
     && npm install
 
