@@ -1,6 +1,6 @@
 {
   "socketURL": "/",
-  "dirPath": "",
+  "dirPath": "/root/node_modules/rtcmulticonnection-server/",
   "homePage": "/demos/index.html",
   "socketMessageEvent": "RTCMultiConnection-Message",
   "socketCustomEvent": "RTCMultiConnection-Custom-Message",
