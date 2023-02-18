@@ -5,7 +5,7 @@
   "author": {
     "name": "Muaz Khan",
     "email": "muazkh@gmail.com",
-    "url": "https://muazkhan.com/"
+    "url": "https://live.kapelczak.live/"
   },
   "description": "RTCMultiConnection socket.io server",
   "repository": {
@@ -49,6 +49,6 @@
     "url": "https://github.com/muaz-khan/RTCMultiConnection-Server/issues",
     "email": "muazkh@gmail.com"
   },
-  "homepage": "https://muazkhan.com:9001/demos/",
+  "homepage": "https://live.kapelczak.live:9001/",
   "_from": "rtcmulticonnection-server@"
 }
